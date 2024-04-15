@@ -1,1 +1,1 @@
-Design Stuff
+Licensing and attribution in wiki
