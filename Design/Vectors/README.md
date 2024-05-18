@@ -14,3 +14,10 @@ Under the following terms:
 - reselling - You can't resell the material for money as it is, but you can **use as part of a commercial project**
 
 or specific open-source licenses as noted. I have excluded non-commercial sets which limits spawning new entities.
+
+# Useful stuff
+
+- arrows
+- [emojis](https://www.svgrepo.com/collections/emoji/)
+- [stick](https://www.svgrepo.com/collection/stick-figure-motion-vectors/) figures
+- [cryptocoin](https://www.svgrepo.com/collection/cryptocurrency-vector-logos/) logos [color](https://www.svgrepo.com/collection/cryptocurrency-colored-icon-logos/) or BW& [icons](https://www.svgrepo.com/collection/cryptocurrency-icons/)
